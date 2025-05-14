@@ -10,7 +10,7 @@ On the Cornell Baja SAE team this year, I was responsible for the design, valida
 
 At our first competition of the 2024–2025 season, TG21's brakes system passed brake check on the first attempt, and then went on to remain intact and functional throughout the entire four hour endurance race, a feat that was not achieved on our previous year's car, TGXX. With the help of this system, TG21 went on to achieve each of the top five fastest lap times and win 1st place overall at Baja SAE Arizona 2025.
 
-![Shaded rendering of earlier version]({{ "/assets/images/crosssection" | relative_url }}){: .inline-image-r style="width: 400px"}
+![Shaded rendering of earlier version]({{ "/assets/images/crosssection.PNG" | relative_url }}){: .inline-image-r style="width: 400px"}
 
 Section view giving a clear look at the inner components of the masters inluding its 3 seals, external return spring, port hardware and locations, etc. The total length of the master cylinders was increased by about 2" in order to mount properly in a new orientation, a top-mounted integration with the pedal bay, which is a completely novel design for our car.
 
