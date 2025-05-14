@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/Dan O'Malley Resume 2025" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Dan O'Malley Resume 2025.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [dbo33@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** (617) 548-9569
@@ -22,9 +22,9 @@ Aspiring engineering student with a strong interest in automotive and aerospace 
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
   GPA: 3.8/4.0 | Graduation: May, 2027
 
-- **[Foxborough High School]**  
+- **Foxborough High School**  
   *High School Diploma*  
-  Graduation: [June, 2023]
+  Graduation: June, 2023
 
 ---
 
@@ -63,8 +63,10 @@ Aspiring engineering student with a strong interest in automotive and aerospace 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of the Cornell Baja SAE team
+- Varsity student athlete on the Cornell Sprint Football team
+- Active member of Cornell Catholic Community  
+- Part of the Big Red Leaders 2 Leaders Program
 
 ---
 
