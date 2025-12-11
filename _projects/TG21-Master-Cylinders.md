@@ -2,7 +2,7 @@
 layout: project
 title: Master Cylinders
 description: Advanced CAD Project
-technologies: [Autodesk Fusion]
+technologies: [Solidworks, ANSYS]
 image: /assets/images/Masters on wood.jpg
 ---
 

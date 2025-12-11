@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/Dan O'Malley Resume 2025.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/dan-omalley-resume-2026.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [dbo33@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** (617) 548-9569
@@ -38,12 +38,13 @@ Aspiring engineering student with a strong interest in automotive and aerospace 
 #### Projects
 - **[Master Cylinders]**:  
   *[Designed and Machined custom master cylinders for our Baja SAE off-road car]*  
-  - Used SolidWorks to thoroughly design
-  - Used Ansys to validate design
+  - Used SolidWorks to iterate on custom design through multiple design reviews
+  - Used ANSYS to conduct FEA and virtually validate response to realistic load cases
+  - Machined various components using Tormach CNC mill and lathes
 
 - **[Brake Lines/Dynamometer]**:  
   *[Designed components for custom Dyno]*  
-  - Used CNC mill to machine custom caliper brackets
+  - Used CNC mill to machine custom caliper brackets and components for dynamometer
   - Assembled brake lines with adequate hardware to withstand all of competition  
 
 ---
@@ -57,8 +58,8 @@ Aspiring engineering student with a strong interest in automotive and aerospace 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- [MA State Seal of Biliteracy], [Massachusetts Department of Education], [2022]  
+- [Referee], [U.S. Soccer Federation], [2018]  
 
 ---
 
