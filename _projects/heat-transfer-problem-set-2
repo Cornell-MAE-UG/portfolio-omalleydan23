@@ -1,0 +1,18 @@
+---
+layout: project
+title: Heat Transfer Problem Set 2
+description: Assignment on thermal resistance and heat flux analysis
+technologies: []
+image: /assets/images/heat-transfer-portfolio-cover-image.png
+---
+<!-- ![Photo of old radio]({{ humidifier.jpg | relative_url }}){: .inline-image-l} -->
+
+This problem set for MAE 3240 gave me a strong foundational understanding of how thermal resistance networks govern heat transfer in real engineering systems. In the first problem about a water heater, the concept of insulation was very tangible in practice as calculating the heating power required with and without foam insulation gives you an idea of how these systems are being influenced in reality. I could see quantitatively how adding only 2 cm of a low-conductivity material reduced heat loss by ~75%. The second problem reinforced this further by allowing me to think about how material properties like thermal conductivity k and convection coefficient h interact to set temperature limits and constrain maximum safe heat flux. These weren't only abstract equations, they translate to real design decisions in material selection and layer thickness.
+<br><br>
+
+The laser additive manufacturing problem (final problem) was particularly intriguing to me because it moved beyond 1D heat transfer into interpreting 2D temperature fields. Drawing heat flux vectors perpendicular to isotherms and reasoning about where gradients are steepest helped me develop intuition that I previously haven't explored based solely on equations. The ability to analyze something like a temperature contour map and extract meaningful insight is something I expect to apply in fields like thermal mangement of electronics, manufacturing process design, or even aerospace thermal systems. This problem set connected mathermatical applications to real-world thermal design in a way that will serve to benefit me significantly.
+
+
+<embed src="/portfolio-omalleydan23/assets/Heat_Transfer_Problem_Set__2.pdf" width="100%" height="600px" type="application/pdf">
+
+<div style="clear: both;"></div>
