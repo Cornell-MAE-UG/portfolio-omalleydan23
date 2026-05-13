@@ -1,0 +1,15 @@
+---
+layout: project
+title: Mechatronics Robot Project
+description: Final Report for MAE 3780 Robot Competition
+technologies: [Solidworks, ANSYS]
+image: /assets/images/robot side view.png
+---
+<!-- ![Photo of old radio]({{ humidifier.jpg | relative_url }}){: .inline-image-l} -->
+
+Designed and programmed an autonomous cube-gathering robot for Cornell's MAE 3780 Mechatronics course as part of a three-person team. The robot uses two QTI sensors for real-time border detection and a color sensor for zone identification, all controlled by an Arduino UNO running C with hardware registers. The mechanical design centers on two L-shaped cardboard arms that form a wide enclosure around the front of the robot, corralling cubes within the scoring perimeter as it drives. The robot's strategy involves sweeping along the edges of the competition field to collect cubes before reversing and cycling back through the center. Competed in a class-wide tournament against roughly 60 other teams, finishing 3-2-1 in the class tournament.
+
+
+<embed src="/portfolio-omalleydan23/assets/3780 - Team 55 Final Report.pdf" width="100%" height="600px" type="application/pdf">
+
+<div style="clear: both;"></div>

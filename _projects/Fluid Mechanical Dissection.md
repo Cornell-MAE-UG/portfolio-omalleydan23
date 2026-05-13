@@ -3,7 +3,7 @@ layout: project
 title: Fluids Mechanical Dissection
 description: Humidifier Dissection Video
 technologies: []
-image: /assets/images/humidifer.png\\
+image: /assets/images/humidifer.jpg
 ---
 
 For a class, we were asked to dissect a mechanical design. The design was a humidifier.
